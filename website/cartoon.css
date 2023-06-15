@@ -1,0 +1,28 @@
+body {
+    background-color: #64b5f6;
+    text-align: center;
+}
+
+h1 {
+    color: #00897b;
+    border-style: solid;
+    border-color: #0288d1;
+    border-width: 4px;
+    padding: 10px;
+}
+
+p {
+    color: #d50000;
+    word-spacing: 9px;
+    font-family: "Josefin Slab", serif;
+}
+
+a {
+    color: #2962ff;
+    font-size: 20px;
+    border-style: dotted;
+    border-color: #f0f4c3;
+    border-width: 4px;
+    padding: 10px;
+    border-radius: 25px;
+}

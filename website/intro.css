@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(#96faf3, #a8fa96);
+}
+
+a {
+    color: #519e03;
+    size: 30px;
+    border-style: dotted;
+    border-color: #096939;
+    border-radius: 25px;
+    padding: 10px;
+}
