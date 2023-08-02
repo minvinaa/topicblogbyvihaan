@@ -1,0 +1,25 @@
+a {
+    color: #519e03;
+    size: 30px;
+    border-style: dotted;
+    border-color: #096939;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+body {
+    background-image: linear-gradient(#71f587, #7bdce3);
+}
+
+p {
+    font-size: 22px;
+    color: #09967a;
+}
+
+h1 {
+    color: #045c4a;
+}
+
+h2 {
+    color: #056347;
+}
